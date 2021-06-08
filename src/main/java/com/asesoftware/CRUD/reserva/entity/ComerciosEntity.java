@@ -23,4 +23,5 @@ public class ComerciosEntity {
 	
 	@Column(name = "aforo_maximo")
 	private String aforo_maximo;
+	
 }
